@@ -1,150 +1,114 @@
-<!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=120&section=header&text=ANDREW%20%2F%20UYNEA&fontSize=50&fontColor=00ff41&fontAlign=50&fontAlignY=50&desc=[%20SYSTEMS%20ENGINEER%20IN%20PROGRESS%20·%20COLOMBIA%20·%20HE/HIM%20]&descSize=14&descFontColor=00cc33&descAlignY=80)
+<!-- BANNER PRINCIPAL -->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=200&section=header&text=Andrew%20%7C%20UyNea&fontSize=60&fontColor=00ff41&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20%26%20Backend%20Developer%20%7C%20Colombia&descSize=18&descFontColor=ccffcc&descAlignY=58&animation=twinkling)
+
+<!-- BADGES DE ESTADO -->
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-00ff41?style=for-the-badge&labelColor=000000)
+![Student](https://img.shields.io/badge/INGENIERÍA_DE_SISTEMAS-EN_CURSO-00cc33?style=for-the-badge&labelColor=111111)
+![Colombia](https://img.shields.io/badge/COLOMBIA-🇨🇴-FFCD00?style=for-the-badge&labelColor=003087)
 
 </div>
 
 ---
 
-<div align="center">
+## `> whoami`
 
 ```
-C:\USERS\UYNEA> whoami.exe
+╔══════════════════════════════════════════════════════════╗
+║  NAME    │ Andrew                                        ║
+║  ALIAS   │ UyNea                                         ║
+║  ROLE    │ Full Stack & Backend Developer                ║
+║  FOCUS   │ Architecture · Databases · Vintage Hardware   ║
+║  STATUS  │ ████████░░░░ LOADING DEGREE...               ║
+║  LOC     │ Itagüí, Colombia 🇨🇴                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  NAME    : Andrew                                                        │
-│  ALIAS   : UyNea                                                         │
-│  ROLE    : Full Stack & Backend Developer                                │
-│  STATUS  : [██████████░░░░░░░░░░] LOADING DEGREE...                     │
-│  FOCUS   : Software Architecture · Databases · Vintage Hardware          │
-│  COUNTRY : Colombia 🇨🇴                                                  │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+Estudiante de Ingeniería de Sistemas con mentalidad de **Backend**.
+Me apasiona diseñar sistemas desde cero: arquitecturas limpias, bases de datos bien estructuradas, y restaurar hardware vintage que nadie más quiere tocar. 🔧
 
 ---
 
-<div align="center">
-
-```
-C:\USERS\UYNEA> cat about.txt
-```
-
-</div>
-
-> 💬 Estudiante de Ingeniería de Sistemas con mentalidad de Backend.
-> Me apasiona entender cómo funcionan los sistemas desde adentro:
-> desde el diseño de arquitecturas hasta restaurar hardware que otros dan por muerto.
-> Si tiene chips, cables o líneas de código... lo puedo arreglar. 🔧
-
----
+## `> ./skills --list`
 
 <div align="center">
 
-```
-C:\USERS\UYNEA> dir /skills
-```
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
+### ⚙️ Backend & Bases de datos
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Bases de datos**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🛠️ Herramientas
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
+## `> cat stats.log`
+
 <div align="center">
 
-```
-C:\USERS\UYNEA> run github_stats.exe
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UyNea&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=00ff41&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UyNea&layout=compact&hide_border=true&title_color=00ff41&text_color=00ff41&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=UyNea&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UyNea&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UyNea&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+## `> ls /projects`
 
-```
-C:\USERS\UYNEA> dir /projects
-```
+### 🍫 [PROYECTO-FINAL-MCFLY-CHOCOLATES](https://github.com/UyNea/PROYECTO-FINAL-MCFLY-CHOCOLATES)
 
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![COMPLETE](https://img.shields.io/badge/●%20COMPLETE-00ff41?style=flat-square&labelColor=000)
 
-### 🍫 PROYECTO-FINAL-MCFLY-CHOCOLATES
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Status](https://img.shields.io/badge/STATUS-COMPLETE-00ff41?style=flat-square)
+Sitio web completo para empresa de chocolates. Diseño responsivo, estructura semántica y flujo de usuario cuidado.
 
-> Sitio web completo para empresa de chocolates. Estructura semántica, diseño responsivo y flujo de usuario limpio.
+---
 
-### 🏥 clinica-matasan / Citas
+### 🏥 [clinica-matasan / Citas](https://github.com/UyNea/clinica-matasan)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/STATUS-EN_PROGRESO-ffaa00?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![IN PROGRESS](https://img.shields.io/badge/●%20EN_PROGRESO-ffaa00?style=flat-square&labelColor=000)
 
-> App de citas médicas con backend en Java. Sistema de gestión de pacientes y turnos.
+App de citas médicas con backend en Java. Gestión de pacientes, turnos y registros clínicos.
 
 ---
 
-<div align="center">
+## `> cat roadmap.txt`
 
-```
-C:\USERS\UYNEA> cat objectives.log
-```
-
-| Estado | Objetivo |
-|--------|----------|
+| Estado | Meta |
+|:------:|------|
 | ✅ | Aprender Java y Spring Boot |
-| ✅ | Construir mi primer proyecto web completo |
-| 🔄 | Dominar arquitectura de microservicios |
-| 🔄 | Profundizar en bases de datos relacionales |
-| ⏳ | Contribuir a proyectos open source |
-| ⏳ | Restaurar mi próxima pieza de hardware vintage |
-
-</div>
+| ✅ | Primer proyecto web completo |
+| 🔄 | Arquitectura de microservicios |
+| 🔄 | Bases de datos avanzadas |
+| ⏳ | Contribuir a open source |
+| ⏳ | Restaurar próxima pieza de hardware vintage |
 
 ---
 
 <div align="center">
 
-```
-C:\USERS\UYNEA> contact --list
-```
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer&text=_&fontSize=30&fontColor=00ff41&fontAlign=50)
 
-[![GitHub](https://img.shields.io/badge/GitHub-UyNea-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UyNea)
+*"The best error message is the one that never shows up."*
 
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=40&section=footer&text=_%20&fontSize=20&fontColor=00ff41)
-
-```
-"The best error message is the one that never shows up." — Thomas Fuchs
-```
+[![GitHub](https://img.shields.io/badge/github.com/UyNea-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UyNea)
 
 </div>
